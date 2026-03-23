@@ -2,4 +2,5 @@
 .cloudflare.json
 data/
 backups/
+dashboard/node_modules/
 *.log
